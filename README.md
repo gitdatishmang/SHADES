@@ -1,4 +1,4 @@
-<h1>S.H.A.D.E.S.,</h1>
+<h1>S.H.A.D.E.S.</h1>
 <h2>Smart Hand Analysis and Decision Enhancing System</h2>
 
 <p>Hello!</p>
